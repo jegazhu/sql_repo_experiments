@@ -6,10 +6,11 @@ This repository contains the solution for the 8 case studies in [#8WeekSQLChalle
 
 Developing my data analytics, data visualization, and machine learning skills through:
 
-practical hands-on experience, 
-creating a portfolio 
+i) Practical hands-on experience.
 
-that will highlight my technical abilities and wow potential employers and recruiters, I'm eager to learn, but the variety of online tutorials, courses, and other resources makes me feel disoriented. In order to avoid wasting time learning the wrong things, I want to know which languages and technologies I should concentrate on.
+ii) Creating a portfolio.
+
+That will highlight my technical abilities and wow potential employers and recruiters, I'm eager to learn, but the variety of online tutorials, courses, and other resources makes me feel disoriented. In order to avoid wasting time learning the wrong things, I want to know which languages and technologies I should concentrate on.
 
 On my path to becoming a superb data professional who can have a significant impact on the world, I need direction.
 
